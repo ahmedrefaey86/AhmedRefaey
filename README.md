@@ -1,8 +1,7 @@
 
 - 👋 Hi, I’m @ahmedrefaey86
-- 👀 I’m interested in Python and some of famous libraries like NumPy, Pandas, Matplotlib, Plotly, Mito ...
-- 🌱 I’m currently learning Python...
-- 📫 How to reach me ... asarsat86@gmail.com
+- 🌱 I’m currently learning Computer Science and Data Science ,,,
+- 📫 How to reach me ,,, asarsat86@gmail.com
 
 
 <br>
